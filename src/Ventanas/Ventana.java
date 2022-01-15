@@ -6,7 +6,7 @@ import javax.swing.JFrame;
 
 import Datos.Selector;
 import Datos.Tabla;
-
+//prueba
 public class Ventana extends JFrame {
 	
 	/**
